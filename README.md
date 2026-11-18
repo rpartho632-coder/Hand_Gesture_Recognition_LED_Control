@@ -118,3 +118,10 @@ Partho Chandra Roy
 ## License
 
 This project is open-source under the MIT License.
+
+## Project Demo
+
+![Project Demo](Images/project_demo.png)
+
+## Circuit Diagram
+![Circuit Diagram](Images/circuit_diagram.png)
