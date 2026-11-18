@@ -1,0 +1,33 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+venv312/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Python Environment
+.env
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Proteus Backup
+*.bak
+*.pdsbak
+
+# Arduino build files
+build/
